@@ -1,0 +1,9 @@
+.scrollerplay { layer-background-color: #CCCCCC; background-color: #CCCCCC; color: #000000; }
+.scrollerstop { layer-background-color: #BCBCBC; background-color: #BCBCBC; color: #7C7C7C; }
+.scrollitemplay { }
+.scrollitemstop { background-color: #BCBCBC; layer-background-color: #BCBCBC; color: #FF0000; }
+.scrollitemtitle { font-size: 12px; font-weight: bold; }
+.scrollitemdescription { font-size: 10px; }
+a.scrollitemlink:link, a.item:visited { text-decoration: none; }
+a.scrollitemlink:active, a.scrollitemlink:hover { text-decoration: underline; }
+
