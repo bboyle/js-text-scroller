@@ -19,13 +19,13 @@
 // LOADER - loads browser specific version
 if (document.getElementById) {
 	// standard - Netscape6, IE 4/5
-	document.writeln('<script language="Javascript" type="text\/javascript" src="\/js\/scroll\/scroll_system_id.js"><\/script>');
+	document.writeln('<script language="Javascript" type="text\/javascript" src="scroll_system_id.js"><\/script>');
 } else if (document.layers) {
 	// layers - Netscape 4, 3
-	document.writeln('<script language="Javascript" type="text\/javascript" src="\/js\/scroll\/scroll_system_layer.js"><\/script>');
+	document.writeln('<script language="Javascript" type="text\/javascript" src="scroll_system_layer.js"><\/script>');
 } else {
 	// default - displays titles only
-	document.writeln('<script language="Javascript" type="text\/javascript" src="\/js\/scroll\/scroll_system_default.js"><\/script>');
+	document.writeln('<script language="Javascript" type="text\/javascript" src="scroll_system_default.js"><\/script>');
 }
 
 

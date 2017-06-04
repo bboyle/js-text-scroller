@@ -1,6 +1,6 @@
 # Text scroller
 
-I created this scroller originally because I needed one which **works in Netscape 6**. While at it, I thought I would be neat if it could also **scroll in reverse**. Why, you ask? Because sometimes as a user, you see something you'd like to click on scroll along, and just as you try to click on it… it vanishes! Wouldn’t it be nice to hit “rewind!” and bring it back? With this scroller, you can. View example.
+I created this scroller originally because I needed one which **works in Netscape 6**. While at it, I thought I would be neat if it could also **scroll in reverse**. Why, you ask? Because sometimes as a user, you see something you'd like to click on scroll along, and just as you try to click on it… it vanishes! Wouldn’t it be nice to hit “rewind!” and bring it back? With this scroller, you can.
 
 
 ## Last updated
